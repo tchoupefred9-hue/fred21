@@ -7,13 +7,13 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Karl Bryan Tchoupe - Portfolio",
-  description: "Portfolio professionnel de Karl Bryan Tchoupe Pembe - Développeur Full Stack",
+  title: "Tchoupe pembe Karl Bryan - Portfolio",
+  description: "Portfolio professionnel de Tchoupe pembe Karl Bryan - technicien informatique ",
   keywords: ["portfolio", "développeur", "fullstack", "next.js", "react"],
   authors: [{ name: "Karl Bryan Tchoupe Pembe" }],
   openGraph: {
-    title: "Karl Bryan Tchoupe - Portfolio",
-    description: "Portfolio professionnel - Développeur Full Stack",
+    title: "Tchoupe pembe Karl Bryan - Portfolio",
+    description: "Portfolio professionnel - technicien informatique",
     type: "website",
   },
 };
